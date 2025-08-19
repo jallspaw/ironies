@@ -85,7 +85,7 @@ This approach is intuitive for a number of reasons. It at least recognizes that 
 
 Erik Hollnagel summarized the Fitts’ List in _[Human Factors for Engineers:](http://www.amazon.com/Human-Factors-Engineers-Control-Sandom/dp/0863413293 "Human factors for engineers")_
 
-[![Summary of the Fitts List](https://www.kitchensoap.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-20-at-6.21.17-AM.png)](http://www.kitchensoap.com/wp-content/uploads/2013/08/Screen-Shot-2013-08-20-at-6.21.17-AM.png)
+[![Summary of the Fitts List](https://github.com/jallspaw/ironies/blob/main/FittsListPrinciples.png?raw=true)](https://github.com/jallspaw/ironies/blob/main/FittsListPrinciples.png?raw=true)
 
 It does a good job of looking like a _guide_; it’s essentially an IF-THEN conditional on **where** to use automation.
 
