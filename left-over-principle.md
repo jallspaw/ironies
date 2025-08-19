@@ -46,7 +46,7 @@ This approach also assumes that the tasks that are now automated can be done in 
 
 We’ll revisit this idea later, but the idea that automation should place high priority and focus on the human-machine collaboration instead of their individual capacities is a main theme in the area of Joint Cognitive Systems, and one that I personally agree with.
 
-[![The Left-Over Principle](https://github.com/jallspaw/ironies/blob/main/LeftOverPrinciple-Hollnagel.png "The Left-Over Principle")](http://www.kitchensoap.com/2013/08/20/a-mature-role-for-automation-part-ii/leftoverprinciple-hollnagel-2/)
+[![The Left-Over Principle](https://github.com/jallspaw/ironies/blob/main/LeftOverPrinciple-Hollnagel.png?raw=true "The Left-Over Principle")](http://www.kitchensoap.com/2013/08/20/a-mature-role-for-automation-part-ii/leftoverprinciple-hollnagel-2/)
 
 [Parasuraman, Sheridan, and Wickens (2000)](http://archlab.gmu.edu/people/rparasur/Documents/ParasSherWick2000.pdf "A Model for Types and Levels of Human Interaction with Automation") had this to say about the Left-Over Principle (emphasis mine):
 
